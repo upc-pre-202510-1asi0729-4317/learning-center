@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  serverBasePath: undefined,
+  serverBaseUrl: 'http://localhost:3000/api/v1',
 }
 
